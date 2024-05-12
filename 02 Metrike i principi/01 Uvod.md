@@ -1,0 +1,3 @@
+## H2 Neke česte metrike i principi kojima kod podleže
+
+U ovoj glavi ću da taksativno navedem i prokomentarišem nekoliko pojmova, odnosno sila koje se ponekad suprotstavljaju jedna drugoj, a mahom podražavaju "lepo" pisanje koda, kako god je lepo pisanje koda definisano u kolektivu. To su uglavnom zdravorazumski zaključci, ponekad male zablude koje doduše polaze od čvrstih opažanja, i generalni načini na koji opisujemo i kasnije formatiramo kod. Svi načini opisivanja koda nose sa sobom određene konotacije i mnogi programeri će se savijati na sve moguće načine da ih odbrane. Možda će biti u pravu, možda ne - za sada, evo nekoliko metrika i principa koji su najzastupljeniji.
