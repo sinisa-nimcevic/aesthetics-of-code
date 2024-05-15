@@ -1,4 +1,4 @@
-Estetski doživljaj koda
+### H3 Estetski doživljaj koda
 
 Zadržimo se na trenutak na slučaju gde se bira estetski prijatno rešenje, nasuprot možda najpoznatijem. Dakle, iako autor ima "u rukavu" rešenje koje često primenjuje, okolnosti dozvoljavaju varijaciju koja mu pruža estetsku satisfakciju i on stvara emotivnu vezu sa ovom odlukom.
 

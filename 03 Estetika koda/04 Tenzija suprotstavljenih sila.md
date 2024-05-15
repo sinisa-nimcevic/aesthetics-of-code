@@ -1,0 +1,3 @@
+### H3 Tenzija suprotstavljenih sila 
+
+Ono što preovladava u pisanju koda jesu tenzije iz večno suprotstavljenih principa i sila. Možemo prepoznati suprotstavljene sile u nagonu vlasnika proizvda da prošire funkcionalnost aplikacije, dok razvojni tim želi da ih svede na minimum i usavrši postojeće. Zatim, možda spoljni faktori koji žele da se funkcionalnost doda brzo, i razvojni tim koji zahteva određeno vreme da skupi samopouzdanje i pogura to sve na produkciju. Dok su ove sile mahom političke, a politika naravno igra veliku ulogu čak i u svetu razvoja softvera, ipak, ono na šta ja želim da se fokusiram su sile koje se bore prilikom našeg donošenja odluka.
